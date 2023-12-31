@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('eta.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.mi-fieldset {
+    background-color: rgb(217, 147, 241);
+}
+
+.container {
+    text-align: center;
+}
+
+
+textarea {
+    width: 100%;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+button {
+    margin: 5px;
+    padding: 8px;
+    cursor: pointer;
+}
+
